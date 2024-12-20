@@ -8,17 +8,66 @@
     <language>en</language>
     <managingEditor>webdev@eclipse-foundation.org (Eclipse Foundation)</managingEditor>
     <webMaster>webdev@eclipse-foundation.org (Eclipse Foundation)</webMaster>
-    <lastBuildDate>Sun, 01 Mar 2020 16:09:45 -0400</lastBuildDate><atom:link href="https://eclipse.dev/mat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://eclipse.dev/mat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snapshots</title>
+      <link>https://eclipse.dev/mat/download/snapshots/</link>
+      <pubDate>Thu, 05 Apr 2018 15:50:25 -0400</pubDate>
+      
+        <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
+      
+      <guid>https://eclipse.dev/mat/download/snapshots/</guid>
+      <description>&lt;p&gt;This page points to snapshots / preview versions of Memory Analyzer which haven&amp;rsquo;t been released.&lt;/p&gt;
+&lt;h2 id=&#34;memory-analyzer-latest-stable-build&#34;&gt;Memory Analyzer Latest Stable Build&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Version&lt;/strong&gt;: Latest Development Build | Type: Development/Nightly Build
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Update Site&lt;/strong&gt;: &lt;a href=&#34;https://download.eclipse.org/mat/snapshots/update-site/&#34;&gt;https://download.eclipse.org/mat/snapshots/update-site/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand-alone Eclipse RCP&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-win32.win32.x86_64.zip&#34;&gt;Windows (x86_64) (89.8 MB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.x86_64.dmg&#34;&gt;Mac OSX (Mac/Cocoa x86_64) (86.5 MB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.aarch64.dmg&#34;&gt;Mac OSX (Mac/Cocoa AArch64) (86.5 MB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.x86_64.zip&#34;&gt;Linux (x86_64/GTK+) (86.5 MB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc64le.zip&#34;&gt;Linux (PPC64LE/GTK+) (86.4 MB)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.aarch64.zip&#34;&gt;Linux (AArch64/GTK+) (86.4 MB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>Previous Releases</title>
       <link>https://eclipse.dev/mat/download/previous/</link>
-      <pubDate>Thu, 05 Apr 2018 15:50:25 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
         <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
       
       <guid>https://eclipse.dev/mat/download/previous/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;stand-alone&lt;/strong&gt; Memory Analyzer is based on Eclipse RCP. It is useful if you do not want to install a full-fledged IDE on the system you are running the heap analysis.&lt;/p&gt;
 &lt;p&gt;To install the Memory Analyzer &lt;strong&gt;into an Eclipse IDE&lt;/strong&gt; use the update site URL provided below. The &lt;em&gt;Memory Analyzer (Chart)&lt;/em&gt; feature is optional. The chart feature requires the &lt;a href=&#34;https://eclipse.dev/mat/birt&#34;&gt;BIRT Chart Engine&lt;/a&gt; (Version 2.3.0 or greater).&lt;/p&gt;
+&lt;h3 id=&#34;memory-analyzer-1150-release&#34;&gt;Memory Analyzer 1.15.0 Release&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Version:&lt;/strong&gt; 1.15.0.20231206 | &lt;strong&gt;Date:&lt;/strong&gt; 6 December 2023 | &lt;strong&gt;Type:&lt;/strong&gt; Released
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Update Site:&lt;/strong&gt; &lt;a href=&#34;https://download.eclipse.org/mat/1.15.0/update-site/&#34;&gt;https://download.eclipse.org/mat/1.15.0/update-site/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Archived Update Site:&lt;/strong&gt; &lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/MemoryAnalyzer-1.15.0.202312061754.zip&#34;&gt;MemoryAnalyzer-1.15.0.202312061754.zip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand-alone Eclipse RCP Applications&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-win32.win32.x86_64.zip&#34;&gt;Windows (x86_64)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-macosx.cocoa.x86_64.dmg&#34;&gt;Mac OSX (Mac/Cocoa/x86_64)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-macosx.cocoa.aarch64.dmg&#34;&gt;Mac OSX (Mac/Cocoa/AArch64)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-linux.gtk.x86_64.zip&#34;&gt;Linux (x86_64/GTK+)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-linux.gtk.aarch64.zip&#34;&gt;Linux (AArch64/GTK+)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/1.15.0/rcp/MemoryAnalyzer-1.15.0.20231206-linux.gtk.ppc64le.zip&#34;&gt;Linux (PPC64le/GTK+)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;New and Noteworthy:&lt;/strong&gt; see &lt;a href=&#34;../../1.15.0/noteworthy.html&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;memory-analyzer-1140-release&#34;&gt;Memory Analyzer 1.14.0 Release&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Version&lt;/strong&gt;: 1.14.0.20230315 | &lt;strong&gt;Date&lt;/strong&gt;: 15 March 2023 | &lt;strong&gt;Type&lt;/strong&gt;: Released
@@ -35,7 +84,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/1.14.0/rcp/MemoryAnalyzer-1.14.0.20230315-linux.gtk.ppc64le.zip&#34;&gt;Linux (PPC64le/GTK+)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;New and Noteworthy&lt;/strong&gt;: &lt;a href=&#34;1.14.0/noteworthy.html&#34;&gt;noteworthy.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;New and Noteworthy&lt;/strong&gt;: &lt;a href=&#34;../../1.14.0/noteworthy.html&#34;&gt;noteworthy.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -625,35 +674,6 @@
 &lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-solaris.gtk.sparc.zip&#34;&gt;Solaris 8 (SPARC/GTK 2) (36,3 MB)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-hpux.motif.ia64_32.zip&#34;&gt;HP-UX (IA64_32/Motif) (36,2 MB)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/0.7/rcp/MemoryAnalyzer-Incubation-0.7.0.20081210-aix.motif.ppc.zip&#34;&gt;AIX (PPC/Motif) (36,2 MB)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Snapshots</title>
-      <link>https://eclipse.dev/mat/download/snapshots/</link>
-      <pubDate>Thu, 05 Apr 2018 15:50:25 -0400</pubDate>
-      
-        <author>webdev@eclipse-foundation.org (Eclipse Foundation)</author>
-      
-      <guid>https://eclipse.dev/mat/download/snapshots/</guid>
-      <description>&lt;p&gt;This page points to snapshots / preview versions of Memory Analyzer which haven&amp;rsquo;t been released.&lt;/p&gt;
-&lt;h2 id=&#34;memory-analyzer-latest-stable-build&#34;&gt;Memory Analyzer Latest Stable Build&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Version&lt;/strong&gt;: Latest Development Build | Type: Development/Nightly Build
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Update Site&lt;/strong&gt;: &lt;a href=&#34;https://download.eclipse.org/mat/snapshots/update-site/&#34;&gt;https://download.eclipse.org/mat/snapshots/update-site/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand-alone Eclipse RCP&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-win32.win32.x86_64.zip&#34;&gt;Windows (x86_64) (89.8 MB)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.x86_64.dmg&#34;&gt;Mac OSX (Mac/Cocoa x86_64) (86.5 MB)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-macosx.cocoa.aarch64.dmg&#34;&gt;Mac OSX (Mac/Cocoa AArch64) (86.5 MB)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.x86_64.zip&#34;&gt;Linux (x86_64/GTK+) (86.5 MB)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.ppc64le.zip&#34;&gt;Linux (PPC64LE/GTK+) (86.4 MB)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eclipse.org/downloads/download.php?file=/mat/snapshots/rcp/org.eclipse.mat.ui.rcp.MemoryAnalyzer-linux.gtk.aarch64.zip&#34;&gt;Linux (AArch64/GTK+) (86.4 MB)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
